@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <b>AI Engineer · Prompt Engineer · Product &amp; Project Manager · UI/UX · Web Developer</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
