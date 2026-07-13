@@ -80,3 +80,12 @@ A bilingual landing page or brand site · an interactive learning platform ·
 a clean dashboard · a storefront · or an AI-powered tool that saves you time.
 
 <p align="center"><sub>If it needs to be <b>fast, bilingual, and genuinely useful</b> — that's my sweet spot.</sub></p>
+
+---
+
+### 📫 Let's connect
+
+<p align="center">
+  <a href="mailto:hosamalmotairi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hosam-almotairi-b04723346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
