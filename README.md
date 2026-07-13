@@ -1,26 +1,69 @@
-# Hi, I'm Hosam 👋
+<h1 align="center">Hosam Almotairi</h1>
 
-### I build fast, Arabic-first web products — from idea to shipped.
-##### أبني منتجات رقمية عربية أولاً — من الفكرة إلى الإطلاق
+<p align="center">
+  <b>I build fast, Arabic-first web products — from idea to shipped.</b><br>
+  <sub>أبني منتجات رقمية عربية أولاً، من الفكرة إلى الإطلاق</sub>
+</p>
 
-I turn ideas into polished, **bilingual (Arabic / English)** digital products
-that people actually use — clean, RTL-first experiences built with the craft
-and speed of a modern web stack.
-
----
-
-### 💡 What I bring
-
-- **Product-minded development** — I ship real, working products, not just mockups.
-- **Arabic-first & RTL, done right** — interfaces where the Arabic feels native, not translated.
-- **Ed-tech** — turning dense material into interactive learning experiences.
-- **AI & automation** — building with AI agents and modern tooling to move faster.
-- **End-to-end** — I design, build, and deploy.
-
-### 🛠️ Toolbox
-
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Motion` · `Vercel` · `AI / Agents`
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
-> Focused on building things that are fast, bilingual, and genuinely useful.
+### 👋 About
+
+I turn ideas into polished, **bilingual (Arabic / English)** digital products that people
+actually use. My focus is clean, **RTL-first** experiences built with the craft, speed, and
+attention to detail of a modern web stack — the kind of interface where the Arabic feels
+**native, not translated**.
+
+I care about the whole journey: understanding the problem, designing the experience,
+building it well, and shipping it live.
+
+---
+
+### 💡 What I do
+
+- **🌐 Product-minded web development** — I take a concept and ship a real, working product,
+  not just mockups. Responsive, accessible, and fast.
+- **🕌 Arabic-first & RTL, done right** — bilingual interfaces with correct RTL layout,
+  typography, and number handling. This is my specialty.
+- **🎓 Ed-tech** — turning dense material into clear, interactive learning experiences:
+  quizzes, flashcards, structured notes, and progress tracking.
+- **🛒 Web products** — landing pages, storefronts, dashboards, and content-driven sites.
+- **🤖 AI & automation** — building with AI agents, MCP tooling, and modern workflows to
+  move faster and smarter.
+
+---
+
+### 🛠️ Tech I work with
+
+| Area | Tools |
+|------|-------|
+| **Frontend** | Next.js · React · TypeScript · Tailwind CSS · Motion |
+| **Delivery** | Vercel · Git / GitHub |
+| **Craft** | Responsive design · Accessibility · RTL / i18n · Micro-interactions |
+| **AI** | AI agents · MCP connectors · Prompt engineering |
+
+---
+
+### ⚙️ How I work
+
+- **Ship, then refine** — get a real, working version live, then polish with feedback.
+- **Details matter** — spacing, motion, and copy are part of the product, not an afterthought.
+- **Honest & clear** — no dark patterns, no fake claims. Value first.
+- **Fast without cutting corners** — snappy interfaces, clean code.
+
+---
+
+### 🤝 What I can help you build
+
+A bilingual landing page or brand site · an interactive learning platform ·
+a clean dashboard · a storefront · or an AI-powered tool that saves you time.
+
+<p align="center"><sub>If it needs to be <b>fast, bilingual, and genuinely useful</b> — that's my sweet spot.</sub></p>
