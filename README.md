@@ -1,7 +1,11 @@
 <h1 align="center">Hosam Almotairi</h1>
 
 <p align="center">
-  <b>I build fast, Arabic-first web products — from idea to shipped.</b><br>
+  <a href="https://github.com/hosamalmotairi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&height=55&lines=I+build+fast%2C+Arabic-first+web+products;From+idea+to+shipped;Web%2C+Ed-tech+and+AI-powered+tools;RTL+done+right+%E2%80%94+native%2C+not+translated" alt="What I build" />
+  </a>
+</p>
+<p align="center">
   <sub>أبني منتجات رقمية عربية أولاً، من الفكرة إلى الإطلاق</sub>
 </p>
 
