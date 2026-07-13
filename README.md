@@ -34,7 +34,7 @@ I build at the intersection of **clean design, fast code, and AI**, and I'm alwa
 for the next thing to build and learn from.
 
 - 🎓  MIS @ King Saud University — where business meets tech
-- 🌍  Based in Saudi Arabia
+- 🌍  Based in Riyadh, Saudi Arabia
 - ⚡  I ship most of my projects **bilingual, Arabic-first**
 - 🌱  Currently: learning by building real products
 
