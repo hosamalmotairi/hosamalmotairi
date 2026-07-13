@@ -19,15 +19,24 @@
 
 ---
 
-### 👋 About
+### 👋 About me
 
-I turn ideas into polished, **bilingual (Arabic / English)** digital products that people
-actually use. My focus is clean, **RTL-first** experiences built with the craft, speed, and
-attention to detail of a modern web stack — the kind of interface where the Arabic feels
-**native, not translated**.
+I'm Hosam — an **MIS student at King Saud University**, sitting right where
+**business meets technology**. That mix is how I like to build: products that make sense
+for people *and* are engineered well.
 
-I care about the whole journey: understanding the problem, designing the experience,
+What started as **building study tools to make my own courses easier** grew into a focus on
+**Arabic-first web products** — bilingual experiences where the Arabic feels *native, not
+translated*. I enjoy the full arc: understanding the problem, designing the experience,
 building it well, and shipping it live.
+
+I build at the intersection of **clean design, fast code, and AI**, and I'm always looking
+for the next thing to build and learn from.
+
+- 🎓  MIS @ King Saud University — where business meets tech
+- 🌍  Based in Saudi Arabia
+- ⚡  I ship most of my projects **bilingual, Arabic-first**
+- 🌱  Currently: learning by building real products
 
 ---
 
